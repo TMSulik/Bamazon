@@ -10,6 +10,10 @@ Here is a link to a video showing how the app works:
 
 https://www.dropbox.com/s/pvx8u0n0h22oldd/Customer%20demo.mov?dl=0
 
+Link to professional portfolio page:
+
+https://tmsulik.github.io/Bootstrap-Portfolio/
+
 
 
 
